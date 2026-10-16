@@ -1,0 +1,9 @@
+{
+	"provideLibs": [	
+		    "libdummy_ext_wayland_protocols-x86_64-v2.so",
+		    "libdummy_ext_wayland_protocols.so",
+		    "libdummy_shared_wayland-protocols-x86_64-v2.so",
+		    "libdummy_shared_wayland-protocols.so"
+	],
+	"visible": true
+}
